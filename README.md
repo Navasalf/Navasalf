@@ -1,9 +1,9 @@
 ![Image text](https://github.com/Navasalf/Navasalf/blob/main/header.png)
 
-## Desarrollador Full Stack. Apasionado por el desarrollo de software y siempre busco aprender nuevas tecnologías. Tengo experiencia en el trabajo en equipo y soy capaz de adaptarme a nuevos entornos.  Estoy dispuesto a asumir retos y crecer profesionalmente. 
+    Desarrollador Full Stack. Apasionado por el desarrollo de software y siempre busco aprender nuevas tecnologías. Tengo experiencia en el trabajo en equipo y soy capaz de adaptarme a nuevos entornos.  Estoy dispuesto a asumir retos y crecer profesionalmente. 
 
 
-<h3>💡Habilidades </h3>
+## <h3>💡Habilidades </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
  
-## 
- 🌐 Socials:
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-navas/) 
+ ## 🌐 Socials:
+ 
+<Strong>-</strong> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-navas/) 
