@@ -1,5 +1,8 @@
 ![Image text](https://github.com/Navasalf/Navasalf/blob/main/header.png)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://https://www.linkedin.com/in/alfredo-navas//) 
+
 <h3>💡Habilidades </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
