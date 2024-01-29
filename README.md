@@ -6,6 +6,7 @@
 
 <div  align="center">
   <h1> Hi, I'm Alfredo Navas 👨🏻‍💻 Full Stack Developer 👨🏻‍💻</h1>
+  <h2>Welcome to my GITHUB</h2>
  </div>
  
  <br>
