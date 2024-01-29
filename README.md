@@ -5,7 +5,6 @@
   <h1> Hi..! I'm Alfredo Navas, 👨🏻‍💻 Full Stack Developer 👨🏻‍💻</h1>
 
  </div>
- 
  <br>
  <h2>💡Languages ​​and Tools </h2>
 
