@@ -4,7 +4,7 @@
 
 
 <div  align="center">
-  <h1> Hi,   I'm Alfredo Navas, Full Stack Developer 👨🏻‍💻</h1>
+  <h1> Hi,   I'm Alfredo Navas 👨🏻‍💻Full Stack Developer 👨🏻‍💻</h1>
  </div>
  
  <br>
