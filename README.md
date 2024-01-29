@@ -1,6 +1,6 @@
 ![Image text](https://github.com/Navasalf/Navasalf/blob/main/header.png)
 
-  Desarrollador Full Stack. Apasionado por el desarrollo de software y siempre busco aprender nuevas tecnologías. Tengo experiencia en el trabajo en equipo y soy capaz de adaptarme a nuevos entornos.  Estoy dispuesto a asumir retos y crecer profesionalmente. 
+
 
 
 ## <h3>💡Lenguajes y Herramientas </h3>
