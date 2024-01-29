@@ -1,5 +1,7 @@
 <img src="https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg" alt="Full-Stack-Developer" width="1200" height="150">
-[![programacion-sintaxis-5486.webp](https://i.postimg.cc/NfTzHr3D/programacion-sintaxis-5486.webp)](https://postimg.cc/fJzC4kTS?height=200&width=300)
+
+<img src="https://i.postimg.cc/NfTzHr3D/programacion-sintaxis-5486.webp" height="200" width="300">
+
 
 
 <div  align="center">
