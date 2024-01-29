@@ -25,8 +25,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
- <br>
- 
 
 <br>
 <div  align="center">
@@ -37,6 +35,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navasalf&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
+<br>
 
  ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-navas/) 
