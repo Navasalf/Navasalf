@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hi..! I'm Alfredo Navas</h1>
-  <h2>Full Stack Development</h2>
-## </div>
+  ## <h2>Full Stack Development</h2>
+ </div>
 
 
 
