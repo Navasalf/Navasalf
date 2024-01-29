@@ -1,9 +1,10 @@
 
 ## <img src="https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg" alt="Full-Stack-Developer" width="1200" height="200">
 
-<div>
-  <h1> Hi..! I'm Alfredo Navas</h1>
-  <h2>Full Stack Development</h2>
+<div  align="center">
+  <h1> Hi..! I'm Alfredo Navas
+  Full AStack Developer</h1>
+
  </div>
  
  <h3>💡languages ​​and tools </h3>
