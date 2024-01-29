@@ -1,6 +1,11 @@
 
 ## <img src="https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg" alt="Full-Stack-Developer" width="1200" height="200">
 
+<div align="center">
+  <h1> Hi..! I'm Alfredo Navas</h1>
+  <h2>Full Stack Development</h2>
+ </div>
+ 
  <h3>💡languages ​​and tools </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
