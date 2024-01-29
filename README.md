@@ -2,7 +2,7 @@
 
 ![Image text](https://github.com/Navasalf/Navasalf/blob/main/header.png)
 
-![Full-Stack-Developer.jpg](https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg){width=600 height=150}
+![Full-Stack-Developer.jpg](https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg){width=650 height=80}
 
 ## <h3>💡languages ​​and tools </h3>
 
