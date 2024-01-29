@@ -2,7 +2,6 @@
 
 ![Image text](https://github.com/Navasalf/Navasalf/blob/main/header.png)
 
-<h1> Developer Full Stack </h1>
 
 ## <h3>💡languages ​​and tools </h3>
 
