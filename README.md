@@ -1,7 +1,7 @@
 
 ## <img src="https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg" alt="Full-Stack-Developer" width="1200" height="200">
 
-<div align="center">
+<div>
   <h1> Hi..! I'm Alfredo Navas</h1>
   <h2>Full Stack Development</h2>
  </div>
