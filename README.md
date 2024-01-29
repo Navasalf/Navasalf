@@ -1,4 +1,4 @@
-<br>
+
 <div align="center">
   <h1> Hi...! I'm Alfredo Navas</h1>
 </div>
