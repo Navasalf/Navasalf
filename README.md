@@ -26,7 +26,7 @@
  <br>
  
  ## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-navas/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-navas/) 
 <br>
 <br>
 <a href="https://github.com/navasalf/github-readme-stats">
