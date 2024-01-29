@@ -5,7 +5,7 @@
 <img src="https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg" alt="Full-Stack-Developer" width="1200" height="200">
 
 
-## <h3>💡languages ​​and tools </h3>
+ <h3>💡languages ​​and tools </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
