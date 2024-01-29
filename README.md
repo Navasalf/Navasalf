@@ -29,10 +29,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navasalf&layout=pie)](https://github.com/navasalf/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navasalf&hide_progress=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navasalf&layout=donut-vertical)](https://github.com/navasalf/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navasalf&layout=donut)](https://github.com/navasalf/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navasalf&layout=compact)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navasalf&exclude_repo=github-readme-stats,navasalf.github.io)
 
