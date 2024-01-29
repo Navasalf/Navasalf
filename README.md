@@ -1,5 +1,6 @@
 
-## <img src="https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg" alt="Full-Stack-Developer" width="1200" height="200">
+## <img src="https://i.postimg.cc/PrRhRrDv/Full-Stack-Developer.jpg" alt="Full-Stack-Developer" width="1200" height="180">
+
 
 <div  align="center">
   <h1> Hi..! I'm Alfredo Navas, 👨🏻‍💻 Full Stack Developer 👨🏻‍💻</h1>
