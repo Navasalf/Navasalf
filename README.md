@@ -32,10 +32,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=navasalf" />
 </a>
 <a href="https://github.com/navasalf/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navasalf&exclude_repo=github-readme-stats,navasalf.github.io" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navasalf&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navasalf&exclude_repo=github-readme-stats,navasalf.github.io)
 
-https://github-readme-stats.vercel.app/api/top-langs?username=navasalf&layout=compact&langs_count=8&card_width=320
+
 
