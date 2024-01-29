@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1> Hi..! I'm Alfredo Navas</h1>
   <br>
@@ -34,8 +33,7 @@
  <br>
  
  ## 🌐 Socials:
- 
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-navas/) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-navas/) 
 <br>
 <br>
 <a href="https://github.com/navasalf/github-readme-stats">
